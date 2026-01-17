@@ -1,0 +1,5 @@
+{
+  "name": "Username Extractor",
+  "description": "Alat untuk mengekstrak username dari nama file atau konten visual secara instan. Unggah gambar atau video, lihat nama file, dan salin dengan satu klik.",
+  "requestFramePermissions": []
+}
